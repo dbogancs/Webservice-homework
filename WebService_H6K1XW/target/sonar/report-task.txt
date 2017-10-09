@@ -1,0 +1,6 @@
+projectKey=soi.ws:WebService_H6K1XW
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/soi.ws:WebService_H6K1XW
+ceTaskId=AV60E4vJZRkkGCuXdwVT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV60E4vJZRkkGCuXdwVT
